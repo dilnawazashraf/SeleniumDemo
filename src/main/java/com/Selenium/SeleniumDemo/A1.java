@@ -1,7 +1,7 @@
 package com.Selenium.SeleniumDemo;
 
-import static org.junit.Assert.assertArrayEquals;
-import static org.junit.Assert.assertEquals;
+import static org.testng.Assert.assertEquals;
+
 import java.lang.Thread;
 import java.util.concurrent.TimeUnit;
 
