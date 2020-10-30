@@ -1,7 +1,7 @@
 package com.Selenium.SeleniumDemo;
 
-import org.junit.Test;
-import org.junit.experimental.theories.suppliers.TestedOn;
+//import org.junit.Test;
+//import org.junit.experimental.theories.suppliers.TestedOn;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

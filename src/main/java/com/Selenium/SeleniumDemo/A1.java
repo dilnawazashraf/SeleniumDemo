@@ -5,7 +5,7 @@ import static org.testng.Assert.assertEquals;
 import java.lang.Thread;
 import java.util.concurrent.TimeUnit;
 
-import org.junit.Test;
+//import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
