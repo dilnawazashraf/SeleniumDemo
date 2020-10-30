@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="44506" started-at="2020-10-29T14:11:37Z" finished-at="2020-10-29T14:12:21Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="44506" started-at="2020-10-29T14:11:37Z" finished-at="2020-10-29T14:12:21Z">
+      <class name="com.Selenium.SeleniumDemo.A1">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.Selenium.SeleniumDemo.A1@7921b0a2]" name="testcase1" duration-ms="12848" started-at="2020-10-29T14:11:37Z" finished-at="2020-10-29T14:11:50Z">
+        </test-method>
+      </class>
+      <class name="com.Selenium.SeleniumDemo.A4">
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:com.Selenium.SeleniumDemo.A4@6a024a67]" name="testcase4" duration-ms="17157" started-at="2020-10-29T14:12:04Z" finished-at="2020-10-29T14:12:21Z">
+        </test-method>
+      </class>
+      <class name="com.Selenium.SeleniumDemo.A3">
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:com.Selenium.SeleniumDemo.A3@458ad742]" name="testcase3" duration-ms="14474" started-at="2020-10-29T14:11:50Z" finished-at="2020-10-29T14:12:04Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

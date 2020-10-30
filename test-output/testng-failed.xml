@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="test1(failed)" preserve-order="true">
+    <classes>
+      <class name="com.Selenium.SeleniumDemo.A3">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class>
+      <class name="com.Selenium.SeleniumDemo.A4">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class>
+      <class name="com.Selenium.SeleniumDemo.A1">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
